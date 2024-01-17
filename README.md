@@ -1,4 +1,4 @@
-https://reduce-link.herokuapp.com/api-docs/index.html
+https://link-reducer.onrender.com
 
 It works similar to bit.ly.
 This app was deployed to herokuapp.
@@ -19,11 +19,11 @@ When you press button execute it produce uniq link.
 
 {
 "nickname": "ACF7T",
-"redirect_url": "https://reduce-link.herokuapp.com/ACF7T"
+"redirect_url": "https://link-reducer.onrender.com"
 }
 
 In order to check if link works, just copy and 
-paste: https://reduce-link.herokuapp.com/ACF7T to address bar of your web browser and press "Enter"
+paste: https://link-reducer.onrender.com to address bar of your web browser and press "Enter"
 It will redirect to the original site - google.com
 
 If you do not need this link, just take generated part of link in "nickname": "ACF7T"
